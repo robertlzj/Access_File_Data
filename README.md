@@ -21,4 +21,5 @@ If full path not specified, will use working directory.
   See [robertlzj/Data2String: Serialize data Fast in any struct to string. Clear view through complex reference](https://github.com/robertlzj/Data2String) 
   Auto contain when install from luarock.
 - gbk: Option. Code page converter.  
-  See [starwing/luagbk: GBK encoding string support for Lua programming language. (github.com)](https://github.com/starwing/luagbk) and description in '[gbk - LuaRocks](https://luarocks.org/modules/xavier-wang/gbk)'.
+  See [starwing/luagbk: GBK encoding string support for Lua programming language. (github.com)](https://github.com/starwing/luagbk) and description in '[gbk - LuaRocks](https://luarocks.org/modules/xavier-wang/gbk)'.  
+  Auto contain when install from luarock.
