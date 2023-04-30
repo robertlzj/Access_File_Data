@@ -12,7 +12,7 @@ description = {
 }
 dependencies = {
    "lua == 5.3",
-	 "Data2String >= 1.2",
+	 "Data2String >= 1.3",
 	 "gbk",
 }
 build = {
