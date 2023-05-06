@@ -1,5 +1,5 @@
 package = "Access_File_Data"
-version = "1.1-1"
+version = "1.1-2"
 source = {
    url = "git+https://github.com/robertlzj/Access_File_Data",
    tag = "",
@@ -13,7 +13,6 @@ description = {
 dependencies = {
    "lua == 5.3",
 	 "Data2String >= 1.3",
-	 "gbk",
 }
 build = {
    type = "builtin",
